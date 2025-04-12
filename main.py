@@ -8,4 +8,8 @@ git clone https://github.com/micandou/mon-premier-projet
 """
 
 print("Hello GitHub !")
-
+"""
+git add main.py
+git commit -m "Ajout du fichier main.py"
+git push origin main
+"""
